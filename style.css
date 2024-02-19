@@ -1,0 +1,46 @@
+.logo-wrapper{
+    display: flex;
+    justify-content:right ;
+    text-decoration: overline;
+    gap: 12px;
+}
+.button{
+    width: 160px;
+    height: 45px;
+    padding: 10px;
+    background-color: rgb(247, 62, 93);
+    color: #fff;
+}
+.container{
+display:flex;
+}
+.link{
+    justify-content:right;
+ }
+ element.style {
+    background-image: url(https://preview.colorlib.com/theme/petvet/images/bg_1.jpg);
+    height: 356px;
+    background-position: 50% 0%;
+}
+.main-wrap {
+    width: 100%;
+    height: 700px;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+.btn-first-button{
+    background-color: #f04d68;
+    color: #fff;
+    
+}
+
+.btn-wrap{
+    background-color: rgb(41, 201, 41);
+    text-decoration: none;
+    color: #fff;
+}
+
+
